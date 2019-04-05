@@ -1,0 +1,12 @@
+body, html {
+    height: calc(100% - 2em);
+    margin: 0;
+    font-family: 'Acme', sans-serif;
+}
+
+body {
+    background: rgb(244,83,83);
+    background: linear-gradient(315deg, rgba(244,83,83,1) 10%, rgba(252,198,76,1) 100%);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
